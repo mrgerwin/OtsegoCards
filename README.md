@@ -1,7 +1,7 @@
 # OtsegoCards
 Making Quick Rule Based Card Game
 
-After working with your group to establish the rule to your card game, download the files to make the computer based card game.
+After working with your group to establish the rule to your card game, download or branch the files to make the computer based card game for your rules.
 
 Open OtsegoCards.py in Thonny
 
