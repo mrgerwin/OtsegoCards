@@ -7,11 +7,11 @@ Open OtsegoCards.py in Thonny
 
 Scroll to where it tells you to program.  Assign points depending on the cards suit, value, or color.
 
-Access the cards suit by writing a_card.suit
+Access the cards suit by writing card.suit
 
-Access the cards value by writing a_card.value
+Access the cards value by writing card.value
 
-Access the cards color by writing a_card.color
+Access the cards color by writing card.color
 
 Use if statements and assign points to the correct player
 
