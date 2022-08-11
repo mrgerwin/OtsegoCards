@@ -8,11 +8,11 @@ def DrawEvent():
         theDeck = PlayingCards.Deck()
         theDeck.shuffle()
     #draws one card from the deck
-    a_card = theDeck.drawCard()
+    card = theDeck.drawCard()
     #Displays it on the screen
-    screen.blit(a_card.image, (200, 300))
+    screen.blit(card.image, (200, 300))
     #Displays the card name
-    print(a_card.name)
+    print(card.name)
     
     """
     PROGRAM under the comments
